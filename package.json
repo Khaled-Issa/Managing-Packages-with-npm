@@ -3,6 +3,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author":"Khaled",
 	"description":"Managing Packages with Npm Tutorial",
+	"keyword":"freecodecamp, managing npm packages, learning backend",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
