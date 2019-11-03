@@ -5,6 +5,7 @@
 	"description":"Managing Packages with Npm Tutorial",
 	"keywords": ["freecodecamp", "managing npm packages", "learning backend"],
 	"license":"MIT",
+	"version": "1.2.0",
 
 	"dependencies": {
 		"express": "^4.14.0"
