@@ -9,7 +9,7 @@
 
 	"dependencies": {
 		"express": "^4.14.0",
-		"moment":"2.14.0"
+		"moment":"2.12.2"
 		
 		
 	},
