@@ -1,6 +1,8 @@
 {
-	"author":"Khaled",
+	
 	"name": "fcc-learn-npm-package-json",
+	"author":"Khaled",
+	"description":"Managing Packages with Npm Tutorial",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
